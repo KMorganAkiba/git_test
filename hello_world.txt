@@ -1,0 +1,1 @@
+Sample text to add to file for git commit changes from the command line interface. 
